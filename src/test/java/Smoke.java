@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public interface Smoke {
+public interface Smoke {
 }
